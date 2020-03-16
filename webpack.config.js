@@ -3,9 +3,6 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
-  //mode: "production",
-  mode: "development",
-
   // Enable sourcemaps for debugging webpack's output.
   devtool: "source-map",
 
