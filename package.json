@@ -34,7 +34,7 @@
     "graphql-tag": "^2.10.1",
     "html-webpack-plugin": "^4.3.0",
     "jest": "^26.0.1",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "ts-jest": "^26.0.0",
